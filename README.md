@@ -47,10 +47,11 @@ Ensure you have the following installed:
 
    ```bash
    python cipher.py
-5.  For the **GUI version**:
+    ````
+      For the **GUI version**:
+
    ```bash
-    python GUI.py
-    ```
+   python cipher.py
 
 ### Linux (Kali/Ubuntu)
 
