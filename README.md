@@ -47,4 +47,7 @@ Ensure you have the following installed:
 
    ```bash
    python cipher.py
+5.  For the **CLI version**:
+   ```bash
+    python GUI.py
 
