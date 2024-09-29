@@ -1,0 +1,14 @@
+Encryptify is a Python-based application designed to encrypt and decrypt messages using a randomized key. The project offers both a command-line interface (CLI) and a graphical user interface (GUI) for ease of use.
+
+In this tool, a unique key is generated from a mix of punctuation marks, digits, and letters, which is then used to transform plaintext messages into encrypted text or decrypt them back. The key is securely stored in a JSON file, allowing users to reuse it for consistent encryption and decryption.
+
+Key Features:
+Encryption and Decryption: Encrypt plain text messages or decrypt encrypted messages using a unique key-based algorithm.
+Random Key Generation: A new key is generated and stored each time, ensuring security.
+Command-line and GUI Support: Users can run the program via the command line or enjoy the ease of the graphical interface built with Tkinter.
+Key Persistence: Encryption keys are saved in a JSON file for reuse across multiple sessions.
+Cross-platform: Compatible with various operating systems including Windows, Linux, and macOS.
+Technologies Used:
+Python Standard Libraries: random, string, json, os, time, and tkinter.
+Tkinter for GUI: Provides an intuitive interface for encrypting and decrypting messages.
+
