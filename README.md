@@ -47,7 +47,37 @@ Ensure you have the following installed:
 
    ```bash
    python cipher.py
-5.  For the **CLI version**:
+5.  For the **GUI version**:
    ```bash
     python GUI.py
+    ```
+
+### Linux (Kali/Ubuntu)
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/Asad-channar/Python-Codes.git
+    cd Python-Codes/Encryptify
+    ```
+
+2. **Create a virtual environment (optional but recommended):**
+
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+
+3. **Install dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. **Run the program:**
+
+   To run the **CLI version**, use:
+
+   ```bash
+   python3 cipher.py
 
