@@ -81,4 +81,10 @@ Ensure you have the following installed:
 
    ```bash
    python3 cipher.py
+   ```
+    To run the **GUI version**, use:
+
+   ```bash
+   python3 GUI.py
+
 
